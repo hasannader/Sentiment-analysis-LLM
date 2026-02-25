@@ -1,0 +1,12 @@
+[
+    {
+        "sentence": "nice exprience",
+        "sentiment": "Positive",
+        "reasoning": "Let's break down the sentiment of the sentence \"nice exprience\":\n\n**Step 1: Identify Key Words and their Meanings**\n*   **\"nice\"**: This is an adjective meaning pleasant, agreeable, good, or kind.\n*   **\"exprience\"**: This is a common misspelling of \"experience,\" which refers to an event or occurrence.\n\n**Step 2: Analyze the Sentiment of \"nice\"**\n*   The word \"nice\" inherently carries a positive connotation. It describes something as good or pleasing.\n\n**Step 3: Analyze the Sentiment of \"exprience\" (experience)**\n*   The noun \"experience\" itself is neutral. An experience can be good, bad, or indifferent. Its sentiment is usually determined by the adjectives or context surrounding it.\n\n**Step 4: Combine the Sentiments**\n*   In this sentence, \"nice\" is directly modifying \"experience.\" The positive adjective \"nice\" is used to describe the quality of the \"experience.\" Therefore, the positive sentiment of \"nice\" overrides the neutral sentiment of \"experience.\"\n\n**Final Sentiment:** Positive"
+    },
+    {
+        "sentence": "I am in a tight corner!",
+        "sentiment": "Negative",
+        "reasoning": "Let's break down the sentiment of the sentence \"I am in a tight corner!\":\n\n**Step-by-step reasoning:**\n\n1.  **Identify the core phrase:** The key phrase in this sentence is \"tight corner.\"\n2.  **Determine the meaning of the phrase:** \"In a tight corner\" is an idiom. It does not literally mean being physically in a small, cramped space.\n3.  **Define the idiomatic meaning:** As an idiom, \"to be in a tight corner\" means to be in a difficult, problematic, or awkward situation from which it is hard to escape or find a solution. It implies being under pressure, having limited options, or facing an unfavorable challenge.\n4.  **Connect the meaning to sentiment:** Situations that are difficult, problematic, awkward, or involve being under pressure and having limited options are universally associated with negative experiences, stress, and discomfort.\n\n**Final Sentiment:** Negative"
+    }
+]
